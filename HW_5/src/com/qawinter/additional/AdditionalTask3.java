@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class AdditionalTask3 {
     public static void main(String[] args) {
-        System.out.println("Home work 5 by Putova Yulia. Additional task 2.");
+        System.out.println("Home work 5 by Putova Yulia. Additional task 3.");
         int[] array = createArray(inputSize());
         findMinMax(array);
 
